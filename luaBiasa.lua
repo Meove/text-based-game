@@ -1,5 +1,7 @@
 --The Adventure that really LUA biasa
 
+-- Game created by: Muhammad Najmuddin Bin Radzuan (@meove)
+
 -- What class should have:  
 -- HP, Player, power, boss
 
